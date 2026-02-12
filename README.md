@@ -1,4 +1,4 @@
-**Project Title: Customer Shopping Behavior Analysis**
+*Project Title: Customer Shopping Behavior Analysis*
 
 **Overview**
 - **Goal:** Analyze customer shopping behavior to identify trends, clean and prepare the data, run SQL-based analyses, build an interactive Power BI dashboard, produce a written report, and create a presentation in Gamma.
